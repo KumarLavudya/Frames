@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1" >
+  <test name="Regression1">
+    <classes>
+      <class name="com.hrsm.test_scripts_01.TC_001"/>
+      <class name="com.hrsm.test_scripts_01.TC_002"/>
+    </classes>
+  </test>
+</suite>
